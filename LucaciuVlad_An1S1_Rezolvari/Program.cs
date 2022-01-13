@@ -284,20 +284,20 @@ namespace LucaciuVlad_An1S1_Rezolvari
 static void Main(string[] args)
         {
             //                Set  1  
-            //P1();
-            //P2();
-            //P3();
-            //P4();
-            //P5();
-            //p7();
-            //p8();
-            //p9();
-            //p10();
-            //p11();
-            //p21();
-            
+            //P1(); //Rezolvati ecuatia de gradul 1 cu o necunoscuta: ax+b = 0, unde a si b sunt date de intrare.
+            //P2(); //Rezolvati ecuatia de gradul 2 cu o necunoscuta: ax^2 + bx + c = 0, unde a, b si c sunt date de intrare. Tratati toate cazurile posibile. 
+            //P3(); //Determinati daca n se divide cu k, unde n si k sunt date de intrare. 
+            //P4(); //Determinati daca un an y este an bisect.
+            //p5(); //Extrageti si afisati a k-a cifra de la sfarsitul unui numar. Cifrele se numara de la dreapta la stanga. 
+            //p7(); //(Swap) Se dau doua variabile numerice a si b ale carori valori sunt date de intrare. Se cere sa se inverseze valorile lor. 
+            //p8(); //Swap restrictionat) Se dau doua variabile numerice a si b ale carori valori sunt date de intrare. Se cere sa se inverseze valorile lor fara a folosi alte variabile suplimentare.  
+            //p9(); //Afisati toti divizorii numarului n. 
+            //p10(); //Test de primalitate: determinati daca un numar n este prim.
+            //p11(); //Afisati in ordine inversa cifrele unui numar n. 
+            //p21(); //Ghiciti un numar intre 1 si 1024 prin intrebari de forma "numarul este mai mare sau egal decat x?". 
+
         }
-               
+
     }
 }
 
